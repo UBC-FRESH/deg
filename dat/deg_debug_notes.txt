@@ -1,0 +1,7 @@
+tsa02 infeasible in irh 5
+vcut 4: 6109911
+adjusted to 5900000 (OK now)
+
+tsa07 infeasible in irh 4
+vcut 4: 4272965
+adjusted to 4000000

@@ -1,0 +1,12 @@
+[submodule "lib/folium"]
+	path = lib/folium
+	url = https://github.com/python-visualization/folium.git
+[submodule "lib/ws3"]
+	path = lib/ws3
+	url = http://www.github.com/UBC-FRESH/ws3
+[submodule "lib/folium"]
+	path = lib/folium
+	url = https://github.com/python-visualization/folium.git
+[submodule "lib/ws3"]
+	path = lib/ws3
+	url = http://www.github.com/gparadis/ws3
